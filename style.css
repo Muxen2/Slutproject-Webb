@@ -117,6 +117,8 @@ h1 {
   border: #000000;
 
   transition:0.3s;
+
+  cursor: pointer;
 }
 
 .nav-links button:hover{
